@@ -3,4 +3,4 @@ D3QN trained for OpenAI Acrobot-V1
 
 
 ![](/model_diagram.PNG)
-![](/training.PNG)
+![](/training.png)
